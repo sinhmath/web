@@ -3,7 +3,7 @@ eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
 
 // Widget Options
 var text_month = [, "Tháng 1", "Tháng 2", "Tháng 3", "Tháng 4", "Tháng 5", "Tháng 6", "Tháng 7", "Tháng 8", "Tháng 9", "Tháng 10", "Tháng 11", "Tháng 12"];
-var no_image_url = "https://hoangluyen.com/cdn/blogger/nth.png";
+var no_image_url = "https://2.bp.blogspot.com/-BR9IHKGj_JU/WZaT5KODUOI/AAAAAAAAAFA/aZDhLP-dK8ozXTH6rS3nbd1bbcifovXjwCPcBGAYYCw/s1600/nth.png";
 
 
 // JQuery hover event with timeout by Taufik Nurrohman - https://plus.google.com/108949996304093815163/about
